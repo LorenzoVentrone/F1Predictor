@@ -167,7 +167,3 @@ F1Predictor/
 ## 📝 License
 
 This project uses publicly available Formula 1 data from Kaggle. 
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests. 
