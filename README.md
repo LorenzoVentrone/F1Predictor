@@ -12,7 +12,7 @@ This project aims to predict Formula 1 race results using historical data from 1
 
 ## 📊 Dataset
 
-The project uses the [Formula 1 Race Data](https://www. kaggle.com/datasets/jtrotman/formula-1-race-data) dataset from Kaggle, which contains comprehensive F1 statistics including:
+The project uses the [Formula 1 Race Data](https://www.kaggle.com/datasets/jtrotman/formula-1-race-data) dataset from Kaggle, which contains comprehensive F1 statistics including:
 
 - Race results
 - Driver standings
